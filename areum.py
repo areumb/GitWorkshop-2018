@@ -4,7 +4,7 @@ import random
 
 GREETINGS = [
     'Hiiii testing3, y\'ALL',
-    'G\'day, mate!',
+    'G\'day, mate! New branch',
 ]
 
 def greeting():
