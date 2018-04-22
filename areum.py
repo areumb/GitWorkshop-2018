@@ -3,7 +3,7 @@ from __future__ import print_function
 import random
 
 GREETINGS = [
-    'Hi, y\'all',
+    'Hiiii, y\'ALL',
     'G\'day, mate!',
 ]
 
